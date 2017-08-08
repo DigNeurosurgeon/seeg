@@ -1,1 +1,1 @@
-need to move figures here
+Figures from SEEG prediction modelling
